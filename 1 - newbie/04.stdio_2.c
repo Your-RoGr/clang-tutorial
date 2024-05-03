@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void) {
     
     unsigned int price = 0;

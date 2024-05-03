@@ -1,0 +1,1 @@
+int printf(const char *__restrict format, ...);

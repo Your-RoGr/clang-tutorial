@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void) {
     
     unsigned int time = 4*3600 + 32*60 + 18;
